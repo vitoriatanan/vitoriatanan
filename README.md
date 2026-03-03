@@ -1,6 +1,6 @@
 ## 👩🏽‍💻 Vitória Tanan
 
-Estudante de Engenharia da Computação na Universidade Estadual de Feira de Santana (UEFS). Em constante evolução técnica, com foco em construir soluções eficientes e bem estruturadas.
+Estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana (UEFS). Em constante evolução técnica, com foco em construir soluções eficientes e bem estruturadas.
 
 <div> 
 
