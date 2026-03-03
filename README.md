@@ -11,7 +11,7 @@ Estudante de Engenharia da Computação na Universidade Estadual de Feira de San
 </div>
 
 
----
+#
 ### 🤖Linguagens e Tecnologias
 
 <img 
@@ -152,8 +152,8 @@ Estudante de Engenharia da Computação na Universidade Estadual de Feira de San
 <br/>
 <br/>   
 <br/>
- 
----
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
